@@ -11,9 +11,9 @@ This repository is the front version of the MMORPG, requests to the server are m
 
 ### .env
 
-REACT_APP_STATUS - PROD/DEV depending on whether it’s on dev or prod
+`REACT_APP_STATUS` - PROD/DEV depending on whether it’s on dev or prod
 
-REACT_APP_REST_API - URL where the frontend will make requests to the backend, prod: https://mushokutensei-api.vercel.app, dev: http://localhost:5000
+`REACT_APP_REST_API` - URL where the frontend will make requests to the backend, prod: https://mushokutensei-api.vercel.app, dev: http://localhost:5000
 
 ### Node version
 
