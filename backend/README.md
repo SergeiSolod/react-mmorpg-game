@@ -1,7 +1,7 @@
-The api is located at https://mushokutensei-api.vercel.app/
+The api is located at https://jobless-api.jsvar.com/
 
-View the project - https://mushokutensei.vercel.app/
-Screenshot of the game - https://mushokutensei.vercel.app/assets/screenshots/Screen1.png
+View the project - https://jobless.jsvar.com/
+Screenshot of the game - https://jobless.jsvar.com/assets/screenshots/Screen1.png
 
 ### About the project
 
