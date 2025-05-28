@@ -1,5 +1,5 @@
-View the project - https://mushokutensei.vercel.app/
-Screenshot of the game - https://mushokutensei.vercel.app/assets/screenshots/Screen1.png
+View the project - https://jobless.jsvar.com/
+Screenshot of the game - https://jobless.jsvar.com/assets/screenshots/Screen1.png
 
 ### About the project
 
@@ -9,13 +9,13 @@ This is a full-fledged MMORPG in which you can do quests, level up, compete with
 
 ### Back end
 
-This repository is the front version of the MMORPG, requests to the server are made at https://mushokutensei-api.vercel.app, when developing locally, you need to change it to the localhost on which the backend is running. The backend is in the react-mmorpg-backend repository; by default, localhost:5000 is launched there.
+This repository is the front version of the MMORPG, requests to the server are made at https://jobless.jsvar.com/, when developing locally, you need to change it to the localhost on which the backend is running. The backend is in the react-mmorpg-backend repository; by default, localhost:5000 is launched there.
 
 ### .env
 
 `REACT_APP_STATUS` - PROD/DEV depending on whether it’s on dev or prod
 
-`REACT_APP_REST_API` - URL where the frontend will make requests to the backend, prod: https://mushokutensei-api.vercel.app, dev: http://localhost:5000
+`REACT_APP_REST_API` - URL where the frontend will make requests to the backend, prod: https://jobless.jsvar.com, dev: http://localhost:5000
 
 ### Node version
 
